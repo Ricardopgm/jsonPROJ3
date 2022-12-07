@@ -1,0 +1,109 @@
+{
+    "categorias": [
+    {
+      "id": 1,
+      "tipo": "Sobremesas"
+    },
+    {
+      "id": 2,
+      "tipo": "Pratos"
+    },
+    {
+      "id": 3,
+      "tipo": "Bebidas"
+    }
+  ],
+  "Sobremesas": [
+    {
+      "id": 1,
+      "nome": "Torta de Limão(Fatia)",
+      "ingredientes": "Farinha de trigo, Manteiga, Açúcar, Ovo, Leite Condensado, Limão, Creme de Leite, Essência de Baunilha",
+      "preco": 15.5,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Torta Holandesa(Fatia)",
+      "ingredientes": "Farinha de trigo, Manteiga, Açúcar, Ovo, Leite condensado, Leite, Amido de Milho, Creme de leite, Cacau em pó, Biscoitos, Essência de Baunilha",
+      "preco": 18.9,
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "Brownie",
+      "ingredientes": "Farinha de trigo, Manteiga, Açúcar, Ovo, Cacau em Pó, Ovo",
+      "preco": 15.9,
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "nome": "Brigadeirão",
+      "ingredientes": "Leite condensado, Leite, Amido de milho, Cacau em pó, Manteiga, Chocolate granulado",
+      "preco": 14.5,
+      "categoria_id": 1
+    }
+  ],
+  "Pratos": [
+    {
+      "id": 1,
+      "nome": "Coxa de frango com ervas",
+      "ingredientes": "Coxa de frango, Farinha de rosca, Salsinha, Cebolinha, Orégano, Manjericão, Pimenta-do-reino",
+      "acompanhamento": "arroz, fritas, legumes salteados(brócolis, couve-flor, cenouras e chuchu",
+      "preco": 42.9,
+      "categoria_id": 2
+    },
+    {
+      "id": 2,
+      "nome": "Burrata de limão siciliano",
+      "ingredientes": "Queijo mussarela de búfala, Manteiga, Ciboulette, Limão-siciliano, Pimenta-do-reino",
+      "acompanhamento": "Torrada",
+      "preco": 52.9,
+      "categoria_id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Ceviche Beija-Flor",
+      "ingredientes": "Hibisco, Maracujá, Limão-taiti, Azeite, Mel, Leite de coco, Pimenta dedo-de-moça, Cebola roxa, Peixe branco, Flor comestível, Brotos",
+      "preco": 59.99,
+      "categoria_id": 2
+    },
+    {
+      "id": 4,
+      "nome": "Maminha assada com manjericão",
+      "ingredientes": "Maminha, Óleo, Molho de soja (shoyu), Orégano, Manjericão, Pimenta-dedo-de-moça, Azeite de oliva, Alho",
+      "acompanhamento": "arroz, fritas, legumes salteados",
+      "preco": 55.99,
+      "categoria_id": 2
+    }
+  ],
+  "Bebidas": [
+    {
+      "id": 1,
+      "nome": "Chá Preto",
+      "sabores": "Limão, Pêssego, Amora, Morango",
+      "preco": 12.9,
+      "categoria_id": 3
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerantes",
+      "sabores": "Coca-Cola, Fanta Uva, Fanta Laranja, Guaraná",
+      "preco": 11.9,
+      "categoria_id": 3
+    },
+    {
+      "id": 3,
+      "nome": "Sucos",
+      "sabores": "Limão,Laranja, Abacaxi, Maracujá",
+      "preco": 13.9,
+      "categoria_id": 3
+    },
+    {
+      "id": 4,
+      "nome": "Drinks",
+      "sabores": "Caipirinha(Morango, Maracujá ou Limão, Tequila, Moscow Mule",
+      "preco": 19.90,
+      "categoria_id": 3
+    }
+  ]
+}
